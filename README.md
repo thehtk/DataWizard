@@ -1,61 +1,62 @@
 # Data Wizard: Reveal the Secrets of Data
 
-![Data Wizard Logo](https://datawizard-rfoaqkovul.streamlit.app/image/logo.png)
+Welcome to **Data Wizard**, your ultimate data analysis companion! With the power of Python and its diverse libraries like Streamlit, Pandas, Numpy, and more, Data Wizard empowers you to unlock the hidden potential and value within your data. Say goodbye to tedious data analysis and hello to a world of effortless and enjoyable insights.
 
-**Hosted Link:** [Data Wizard](https://datawizard-rfoaqkovul.streamlit.app/)
+## Hosted Link
+🚀 Check out Data Wizard in action: [Data Wizard](https://datawizard-rfoaqkovul.streamlit.app/)
 
-Python and its diverse libraries such as Streamlit, Pandas, Numpy, etc. deliver the user with a detailed and informative report of the data uploaded by them. It furnishes information such as statistics of various columns of data, such as the number of variables, observations, missing cells, duplicate rows, etc. It also plots different graphs to illustrate and comprehend the data better. 
+## Features
 
-Data Wizard is a project that strives to assist the user in unleashing their hidden potential and value and making data analysis effortless and enjoyable. With Data Wizard, the user can examine and uncover the secrets of their data in a straightforward and engaging way. Data Wizard is a project that turns data into magic.
+Data Wizard offers a variety of features to help you reveal the secrets of your data:
 
-## Screenshots
+### 1. Data Statistics
+Get a quick overview of your data with statistics on:
+- Number of variables
+- Number of observations
+- Missing cells
+- Duplicate rows
+- And more!
 
-**1. Data Overview**
+### 2. Data Visualization
+Data Wizard transforms your data into captivating visuals, making it easier to understand. Explore your data through:
+- Interactive charts
+- Informative graphs
+- Engaging plots
 
-![Data Overview](https://datawizard-rfoaqkovul.streamlit.app/image/1.jpg)
+### 3. Effortless Analysis
+No more complicated coding or data wrangling. Data Wizard simplifies the data analysis process, allowing you to focus on what matters most – extracting valuable insights.
 
-Explore your data with a comprehensive overview, including key statistics and data quality metrics.
+### 4. Magic Touch
+Our enchanting interface and intuitive design make data analysis a delightful experience. We've added a touch of surprise to keep you engaged!
 
-**2. Visualization Galore**
+## How to Use
 
-![Visualization Galore](https://datawizard-rfoaqkovul.streamlit.app/image/2.jpg)
+Using Data Wizard is as easy as waving a wand:
 
-Unlock insights through visually appealing graphs and charts that make data come alive.
+1. Visit our hosted link: [Data Wizard](https://datawizard-rfoaqkovul.streamlit.app/).
+2. Upload your data file.
+3. Let the magic unfold as Data Wizard generates insights and visuals for your data.
+4. Explore, analyze, and discover the hidden gems within your data effortlessly.
 
-**3. Missing Data Detection**
+## Get Started
 
-![Missing Data Detection](https://datawizard-rfoaqkovul.streamlit.app/image/3.jpg)
+Ready to reveal the secrets of your data? Simply follow the link and embark on your data analysis journey with Data Wizard!
 
-Identify and handle missing data with ease, ensuring your analysis is complete.
+Unleash the magic of data analysis with Data Wizard. Your data has never been this fascinating!
 
-**4. Duplicate Rows Finder**
+## About Me
 
-![Duplicate Rows Finder](https://datawizard-rfoaqkovul.streamlit.app/image/4.jpg)
+I'm Hitesh, the creator of Data Wizard. I'm a passionate data enthusiast dedicated to making data analysis accessible and enjoyable for everyone. I believe that data holds the key to valuable insights, and my mission is to help you unlock its potential with Data Wizard.
 
-Locate and eliminate duplicate rows, streamlining your dataset for analysis.
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/thehtk/)
 
-**5. Data Transformation Magic**
-
-![Data Transformation Magic](https://datawizard-rfoaqkovul.streamlit.app/image/5.jpg)
-
-Transform your data effortlessly to fit your needs, unleashing its true potential.
-
-**6. Insights Unleashed**
-
-![Insights Unleashed](https://datawizard-rfoaqkovul.streamlit.app/image/6.jpg)
-
-Uncover valuable insights that were hidden within your data, making data analysis a breeze.
-
-Data Wizard - Because data analysis should be magical!
-
----
-
-*Note: The images have been resized for an interesting and surprising experience. Click on the hosted link above to explore the magic of Data Wizard!*
-
-
-<img src="/image/1.jpg" alt="Alt text" title="Optional title" width="500" height="600">
-<img src="/image/2.jpg" alt="Alt text" title="Optional title" width="500" height="600">
-<img src="/image/3.jpg" alt="Alt text" title="Optional title" width="500" height="600">
-<img src="/image/4.jpg" alt="Alt text" title="Optional title" width="500" height="600">
-<img src="/image/5.jpg" alt="Alt text" title="Optional title" width="500" height="600">
-<img src="/image/6.jpg" alt="Alt text" title="Optional title" width="500" height="600">
+<div style="display: flex; flex-direction: column;">
+    <img src="/image/1.jpg" alt="Alt text" title="Optional title" width="300" height="400">
+    <img src="/image/2.jpg" alt="Alt text" title="Optional title" width="300" height="400">
+    <img src="/image/3.jpg" alt="Alt text" title="Optional title" width="300" height="400">
+</div>
+<div style="display: flex; flex-direction: column;">
+    <img src="/image/4.jpg" alt="Alt text" title="Optional title" width="300" height="400">
+    <img src="/image/5.jpg" alt="Alt text" title="Optional title" width="300" height="400">
+    <img src="/image/6.jpg" alt="Alt text" title="Optional title" width="300" height="400">
+</div>
